@@ -12,3 +12,7 @@ This is a Personal Virtual Assistant created using python. </br>
   <li>yfinance :- It aims to solve this problem by offering a reliable, threaded, and Pythonic way to download historical market data from Yahoo! finance.</li>
   <li> pyjokes :- It used to create one-line jokes</li>
 </ol>
+
+<h1> Working:- </h1>
+It is a personal voice Assistant. It can run some of the common commands on the pc. There is two python files given, (.pynb) file is for the JUPYTER NOTEBOOK and (.py) file is for any of the python compiler. Firstly you have to run the python file then it will automatically listen to your commands and produces the respective outputs.and at last it will wait for 8 sec , then it will terminate automatically.
+Thank you.
